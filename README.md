@@ -1,1 +1,0 @@
-Lista Lp2
