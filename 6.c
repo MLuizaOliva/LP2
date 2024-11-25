@@ -21,13 +21,3 @@ int mdc(int a, int b){
     }
 }
 
-frac soma (frac a, frac b){
-
-}
-
-frac subtra(frac a, frac b){
-
-}
-frac prod(frac a, frac b){
-
-}
